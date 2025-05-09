@@ -53,14 +53,12 @@ Bu proje, Swift ve **Storyboard** kullanılarak geliştirilen tam işlevsel bir 
 
 ## 📱 Uygulama Görselleri
 
-### Ana Liste Görünümü
+<div style="display: flex; justify-content: space-between; gap: 10px;">
 
-<img width="424" alt="Ekran Resmi 2025-05-09 17 16 39" src="https://github.com/user-attachments/assets/4bf95898-1273-4c1d-84aa-e475fdf8ac1d" />
+  <img src="https://github.com/zeynephelinaydin/MusicPlayer/assets/your-id-1" width="48%" alt="Ana Liste Görünümü"/>
+  
+  <img src="https://github.com/zeynephelinaydin/MusicPlayer/assets/your-id-2" width="48%" alt="Şarkı Oynatma Ekranı"/>
 
-
-### Şarkı Oynatma Ekranı
-
-<img width="406" alt="Ekran Resmi 2025-05-09 17 16 09" src="https://github.com/user-attachments/assets/b8a2414e-f41b-4cf6-a0c9-21c696e5ca4e" />
-
+</div>
 
 
