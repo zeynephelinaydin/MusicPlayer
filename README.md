@@ -53,8 +53,9 @@ Bu proje, Swift ve **Storyboard** kullanılarak geliştirilen tam işlevsel bir 
 
 ## 📱 Uygulama Görselleri
 
-<img width="424" alt="Ekran Resmi 2025-05-09 17 16 39" src="https://github.com/user-attachments/assets/227625c3-0e95-4f84-9df3-8fe85b0ddd1f" />
-<img width="406" alt="Ekran Resmi 2025-05-09 17 16 09" src="https://github.com/user-attachments/assets/aaec7b3e-8a59-4be7-8aed-d7ba2d64ba7d" />
+<img width="403" alt="Ekran Resmi 2025-05-09 17 25 47" src="https://github.com/user-attachments/assets/39343158-8b38-4ce3-96b7-936178b3d7ab" />
+<img width="403" alt="Ekran Resmi 2025-05-09 17 26 03" src="https://github.com/user-attachments/assets/8008a984-fec9-421c-a345-0d869e301465" />
+
 
 
 
