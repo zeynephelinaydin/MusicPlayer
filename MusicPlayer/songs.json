@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Beautiful Things",
+    "albumName": "Fireworks & Rollerblades",
+    "singerName": "Benson Boone",
+    "imageName": "benson",
+    "trackName": "parca1"
+  },
+  {
+    "name": "Sopa",
+    "albumName": "Hande'ye Neler Oluyor?",
+    "singerName": "Hande Yener",
+    "imageName": "hande",
+    "trackName": "parca2"
+  },
+  {
+    "name": "Golden",
+    "albumName": "Fine Line",
+    "singerName": "Harry Styles",
+    "imageName": "harry",
+    "trackName": "parca3"
+  },
+  {
+    "name": "Ara Beni Lütfen",
+    "albumName": "Festival",
+    "singerName": "Kenan Doğulu",
+    "imageName": "kenan",
+    "trackName": "parca4"
+  },
+  {
+    "name": "Öyle Kolaysa",
+    "albumName": "Maya",
+    "singerName": "Mabel Matiz",
+    "imageName": "mabel",
+    "trackName": "parca5"
+  },
+  {
+    "name": "We Could Be The Same",
+    "albumName": "We Could Be The Same",
+    "singerName": "maNga",
+    "imageName": "manga",
+    "trackName": "parca6"
+  },
+  {
+    "name": "Diva Yorgun II",
+    "albumName": "Diva Yorgun",
+    "singerName": "Melike Şahin",
+    "imageName": "melike",
+    "trackName": "parca7"
+  },
+  {
+    "name": "Ölüyorum Anla",
+    "albumName": "Single",
+    "singerName": "Mert Demir",
+    "imageName": "mertdemir",
+    "trackName": "parca8"
+  },
+  {
+    "name": "Beteri Yok Uslanmaktan",
+    "albumName": "Single",
+    "singerName": "Nova Norda",
+    "imageName": "nova",
+    "trackName": "parca9"
+  },
+  {
+    "name": "Ride Or Die Pt. 2",
+    "albumName": "Single",
+    "singerName": "Sevdaliza Ft. Tokischa & Villano Antillano",
+    "imageName": "rideor",
+    "trackName": "parca10"
+  },
+  {
+    "name": "Son Bakış",
+    "albumName": "Sezen Aksu Söylüyor",
+    "singerName": "Sezen Aksu",
+    "imageName": "sezen",
+    "trackName": "parca11"
+  },
+  {
+    "name": "Kuzu Kuzu",
+    "albumName": "Karma",
+    "singerName": "Tarkan",
+    "imageName": "tarkan",
+    "trackName": "parca12"
+  },
+  {
+    "name": "Blinding Lights",
+    "albumName": "After Hours",
+    "singerName": "The Weeknd",
+    "imageName": "weekend",
+    "trackName": "parca13"
+  },
+  {
+    "name": "Zalim",
+    "albumName": "Ellerine Sağlık",
+    "singerName": "Yalın",
+    "imageName": "yalin",
+    "trackName": "parca14"
+  },
+  {
+    "name": "Benim İçin Üzülme",
+    "albumName": "Son Dans",
+    "singerName": "Funda Arar",
+    "imageName": "funda",
+    "trackName": "parca15"
+  }
+]
