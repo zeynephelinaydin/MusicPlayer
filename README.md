@@ -17,19 +17,19 @@ Bu proje, Swift ve **Storyboard** kullanılarak geliştirilen tam işlevsel bir 
 ---
 
 ## 📂 Proje Yapısı
-# 📂 MusicPlayer Proje Yapısı
+
 
 ```
 MusicPlayer/
-├── AppDelegate.swift        # Uygulama yaşam döngüsü yönetimi
-├── SceneDelegate.swift      # Çoklu pencere (scene) yönetimi
-├── PlayerViewController.swift# Müzik çalıcı arayüz kontrolü
-├── ViewController.swift     # Şarkı listesi ana ekranı
-├── songs.json               # Şarkı metadata (isim/sanatçı/albüm bilgileri)
-├── Assets.xcassets/         # Albüm kapakları ve uygulama asset'leri
-│   └── AlbumCovers/         # Örnek: cover1.png, cover2.jpg...
-├── Main.storyboard          # Tüm UI bileşenlerinin tasarım dosyası
-└── AudioFiles/              # Müzik dosyaları (Opsiyonel: Bundle içi organizasyon)
+├── AppDelegate.swift             # Uygulama yaşam döngüsü yönetimi
+├── SceneDelegate.swift           # Çoklu pencere (scene) yönetimi
+├── PlayerViewController.swift    # Müzik çalıcı arayüz kontrolü
+├── ViewController.swift          # Şarkı listesi ana ekranı
+├── songs.json                    # Şarkı metadata (isim/sanatçı/albüm bilgileri)
+├── Assets.xcassets/              # Albüm kapakları ve uygulama asset'leri
+│   └── AlbumCovers/              # Örnek: cover1.png, cover2.jpg...
+├── Main.storyboard               # Tüm UI bileşenlerinin tasarım dosyası
+└── AudioFiles/                   # Müzik dosyaları (Opsiyonel: Bundle içi organizasyon)
     ├── parca1.mp3
     ├── parca2.mp3
     ...
